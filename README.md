@@ -1,2 +1,2 @@
 # Touiss
-Graphical RPG engine constructed with \[insert curses implementation here] as a frontend
+Graphical RPG engine constructed with [blessed](https://blessed.readthedocs.io/en/latest/) as a frontend.
